@@ -1,6 +1,6 @@
-# cam_scanner
+# UberClone
 
-A new Flutter application.
+A new Flutter application. Developing To Learn the Technology
 
 ## Getting Started
 
