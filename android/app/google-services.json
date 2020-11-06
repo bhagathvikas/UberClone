@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "45505279689",
+    "firebase_url": "https://uberclone-45616.firebaseio.com",
+    "project_id": "uberclone-45616",
+    "storage_bucket": "uberclone-45616.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45505279689:android:c5bb06192160d0ee29ff18",
+        "android_client_info": {
+          "package_name": "com.example.cam_scanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "45505279689-0ig4abf0g0cjdj4igm5g4kffg0vt1fq1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnpnNotsSBjatJ_66A6HIN-BJaKThNb2c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "45505279689-0ig4abf0g0cjdj4igm5g4kffg0vt1fq1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
